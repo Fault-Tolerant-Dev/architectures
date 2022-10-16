@@ -1,3 +1,3 @@
 # Reference Architectures 
 
-Assorted architectures categorically grouped 
+Assorted architectures categorically grouped
